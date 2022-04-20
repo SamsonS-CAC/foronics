@@ -1,2 +1,2 @@
-New-LocalUser -Name "sign" -NoPassword -PasswordNeverExpires -UserMayNotChangePassword
+New-LocalUser -Name sign -NoPassword -UserMayNotChangePassword -PasswordNeverExpires
 Add-LocalGroupMember -Group "Administrators" -Member "sign"
