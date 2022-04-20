@@ -1,3 +1,3 @@
 cd\
 cd '.\Program Files (x86)\WindowsInstallationAssistant\'
-Windows10UpgraderApp.exe
+.\Windows10UpgraderApp.exe
