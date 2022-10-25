@@ -52,4 +52,3 @@
     }
 
 Get-AppxProvisionedPackage -Online | Select PackageName | sort
-Restart-Computer -Confirm
